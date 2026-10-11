@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sundaram00.github.io/my-repo-2/sitemap.xml
+# Atom Feed: https://sundaram00.github.io/my-repo-2/feed.xml
